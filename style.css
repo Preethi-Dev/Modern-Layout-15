@@ -77,7 +77,7 @@ main .text p span {
   font-size: 8rem;
 }
 
-/* Tablet Styles */
+/* Small Tablet Styles */
 @media screen and (min-width: 600px) {
   .grid {
     grid-template-columns: repeat(6, 1fr);
@@ -101,7 +101,7 @@ main .text p span {
   }
 }
 
-/* Laptop Styles */
+/* Large Laptop and Laptop Styles */
 @media screen and (min-width: 900px) {
   .grid {
     grid-template-columns: repeat(8, 1fr);
